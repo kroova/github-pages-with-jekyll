@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Tech Certificates
 
-I'm glad you are here. I plan to talk about ...
+These are all of the tech stuff I've been working on. 
